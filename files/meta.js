@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"archive-november-2023.html":"Archives for November 2023","category-news---omics.html":"A list of posts in category &ldquo;News - OMICS&rdquo;","category-news.html":"A list of posts in category &ldquo;News&rdquo;","b4cbc1fdbc8bde4401cbb85e9e45e2f7-9.html":"San Juan, Puerto Rico — In a strategic move to propel molecular biology training and innovation to new heights, RIVERA Initiatives Inc. proudly introd","ca18506a475f4cff7e6186a30dfebbbb-8.html":"San Juan, Puerto Rico — In a significant stride towards advancing educational excellence and innovation, RIVERA Initiatives Inc. proudly announces the"};
+	var websiteMeta = {"archive-november-2023.html":"Archives for November 2023","category-news---omics.html":"A list of posts in category &ldquo;News - OMICS&rdquo;","category-news.html":"A list of posts in category &ldquo;News&rdquo;","b4cbc1fdbc8bde4401cbb85e9e45e2f7-9.html":"San Juan, Puerto Rico — In a strategic move to propel molecular biology training and innovation, RIVERA Initiatives Inc. proudly introduces RIVERA-OMI","ca18506a475f4cff7e6186a30dfebbbb-8.html":"San Juan, Puerto Rico — In a significant stride towards advancing educational excellence and innovation, RIVERA Initiatives Inc. proudly announces the"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
