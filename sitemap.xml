@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://news.riverainc.org/index.html</loc>
+		<loc>https://riverainc.org/offsite/index.html</loc>
 	</url>
 	<url>
-		<loc>https://news.riverainc.org/files/rivera-initiatives-omics-molecular-biology-innovation-commercialization.html</loc>
+		<loc>https://riverainc.org/riverainc.org/index.html</loc>
 	</url>
 	<url>
-		<loc>https://news.riverainc.org/files/rivera-initiatives-puerto-rico-registration-academic-enhancement.html</loc>
+		<loc>https://riverainc.org/index.html</loc>
 	</url>
 	<url>
-		<loc>https://news.riverainc.org/files/archive-november-2023.html</loc>
+		<loc>https://riverainc.org/files/rivera-initiatives-omics-molecular-biology-innovation-commercialization.html</loc>
+	</url>
+	<url>
+		<loc>https://riverainc.org/files/rivera-initiatives-puerto-rico-registration-academic-enhancement.html</loc>
+	</url>
+	<url>
+		<loc>https://riverainc.org/files/archive-november-2023.html</loc>
 	</url>
 </urlset>
